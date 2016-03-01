@@ -1,0 +1,2 @@
+# HeadInsertAndTailInsert_HeadNode
+C语言实现头插法、尾插法两种方法来构建带头结点的单链表
